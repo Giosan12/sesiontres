@@ -16,6 +16,7 @@
     background-color: aqua;
 }
 
+<<<<<<< HEAD
 .container-article h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
@@ -38,4 +39,14 @@
     padding: 12px 14px 14px 12px;
     border: 0px;
     border-radius: 5px;
+=======
+.container-flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container-flex img{
+    width: 150px;
+    margin-top: 15px;
+>>>>>>> 1b35c733dc582a3a5449f7a41dd55f40deb02c0b
 }
